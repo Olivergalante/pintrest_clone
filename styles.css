@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(182, 110, 22, 0.5);
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+}
+.img {
+  width: 300px;
+  height: 500px;
+  border-radius: 8px;
+}
+.container-div {
+  display: flex;
+  flex-direction: row;
+}
